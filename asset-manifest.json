@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secret-santa/static/css/main.788bf9e1.css",
+    "main.js": "/secret-santa/static/js/main.0abcf053.js",
+    "index.html": "/secret-santa/index.html",
+    "main.788bf9e1.css.map": "/secret-santa/static/css/main.788bf9e1.css.map",
+    "main.0abcf053.js.map": "/secret-santa/static/js/main.0abcf053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788bf9e1.css",
+    "static/js/main.0abcf053.js"
+  ]
+}
